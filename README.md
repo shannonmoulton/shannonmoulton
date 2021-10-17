@@ -1,6 +1,6 @@
 ### Hi there 👋, Shannon Moulton
 #### Web Development
-![Web Development](https://s9.gifyu.com/images/Shannon-Moulton.png)
+![Web Development](https://s9.gifyu.com/images/Shannon-Moulton2a1406eef27748ba.png)
 
 I'm Shannon from Philadelphia, and I focus on full-stack web development. I build websites and web applications. I enjoy learning languages and frameworks like Javascript and Express.
 
