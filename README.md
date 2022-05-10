@@ -4,7 +4,7 @@
 
 I'm Shannon from Philadelphia, and I focus on full-stack web development. I build websites and web applications. I enjoy learning languages and frameworks like Javascript and Express.
 
-Skills: HTML / CSS/ Javascript/ Express/Mongodb
+Skills: HTML / CSS/ Javascript/ Node/Mongodb
 
 - 🔭 I’m currently working on building an app focused on providing resources to mothers in Philadelphia . 
 - 📫 How to reach me: moulton.shannon@gmail.com 
